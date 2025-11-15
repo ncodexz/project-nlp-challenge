@@ -1,0 +1,5 @@
+gradio>=4.0.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+nltk>=3.8.0
+joblib>=1.2.0
